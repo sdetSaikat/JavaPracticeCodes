@@ -1,6 +1,6 @@
 package gitpractice;
 
-public class ArraylistsConcepts {
+public class ArraylistConcepts {
 	
 	
 	public void qaFundamentals() {
