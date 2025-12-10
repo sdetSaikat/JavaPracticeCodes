@@ -28,4 +28,8 @@ public class B {
 		System.out.println("We are husband and wife");
 	}
 
+	public void we are from(){
+		System.out.println("We are from Bengal");
+	}
+
 }
