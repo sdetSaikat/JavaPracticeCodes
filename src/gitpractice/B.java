@@ -43,4 +43,5 @@ public class B {
 		System.out.println("We are from Bengal");
 	}
 
+	int y =10;
 }
