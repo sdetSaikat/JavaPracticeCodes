@@ -42,6 +42,8 @@ public class B {
 
 	public void wearefrom(){
 		System.out.println("We are from Bengal");
+		
+		System.out.println("Hi");
 	}
 	
 	int x = 10;
@@ -50,5 +52,7 @@ public class B {
 
 	int y =10;
 
-	int Z = 10:
+	int Z = 10;
+	
+	
 }
