@@ -22,6 +22,10 @@ public class B {
 	public void profession() {
 		System.out.println("I am an engineer");
 	}
+
+	public void saikatcompany(){
+		System.out.println("searching");
+	}
 	
 	
 	public void relation() {
