@@ -7,10 +7,7 @@ public class A {
   
 
 	}
-
-  public void practice(){
-   System.out.println("in practice method");
-  }
+	
 
 
 	}
