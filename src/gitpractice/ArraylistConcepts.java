@@ -7,4 +7,7 @@ public class ArraylistConcepts {
 		System.out.println("Qa has be more proactive");
 	}
 
+	public void testing() {
+		System.out.println("testing is very crutial part");
+	}
 }
