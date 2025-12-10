@@ -35,6 +35,9 @@ public class B {
 	public void haveKids() {
 		System.out.println("No we don't have");
 	}
+	public void subhCompany(){
+		System.out.println("canara Bank");
+	}
 
 	public void we are from(){
 		System.out.println("We are from Bengal");
