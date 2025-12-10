@@ -17,9 +17,15 @@ public class B {
 	
 	public void banker() {
 		System.out.println("subh added her profession");
+	}
+	
 	public void profession() {
 		System.out.println("I am an engineer");
 	}
 	
+	
+	public void relation() {
+		System.out.println("We are husband and wife");
+	}
 
 }
