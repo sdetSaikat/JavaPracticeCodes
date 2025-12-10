@@ -27,5 +27,9 @@ public class B {
 	public void relation() {
 		System.out.println("We are husband and wife");
 	}
+	
+	public void haveKids() {
+		System.out.println("No we don't have");
+	}
 
 }
