@@ -12,4 +12,6 @@ public class A {
    System.out.println("in practice method");
   }
 
-}
+
+	}
+
