@@ -7,5 +7,10 @@ public class B {
 		System.out.println("i am saikat");
 
 	}
+	
+	public void subh() {
+		System.out.println("I am subh");
+	}
+	
 
 }
