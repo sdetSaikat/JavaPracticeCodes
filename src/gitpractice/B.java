@@ -4,6 +4,7 @@ public class B {
 
 	public static void main(String[] args) {
 		System.out.println("Subh created class B");
+		System.out.println("i am saikat");
 
 	}
 	

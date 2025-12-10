@@ -3,8 +3,9 @@ package gitpractice;
 public class A {
 
 
+
 	public static void main(String[] args) {
-	System.out.println("in class A");
+	System.out.println("just trying out");
   
 
 	}
@@ -14,6 +15,9 @@ public class A {
   }
 
 
+
+	
+	
 
 }
 
