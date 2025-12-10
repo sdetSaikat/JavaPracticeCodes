@@ -8,6 +8,7 @@ public class ArraylistConcepts {
 	}
 
 	public void testing() {
+		System.out.println();
 		System.out.println("testing is very crutial part");
 	}
 }
