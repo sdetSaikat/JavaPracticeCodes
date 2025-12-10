@@ -31,5 +31,8 @@ public class B {
 	public void haveKids() {
 		System.out.println("No we don't have");
 	}
+	public void subhCompany(){
+		System.out.println("canara Bank");
+	}
 
 }
