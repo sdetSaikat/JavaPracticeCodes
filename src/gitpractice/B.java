@@ -8,6 +8,9 @@ public class B {
 
 	}
 	
+	public void saikat() {
+		System.out.println("I am saikat");
+	}
 	public void subh() {
 		System.out.println("I am subh");
 	}
