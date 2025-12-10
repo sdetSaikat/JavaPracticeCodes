@@ -15,6 +15,8 @@ public class B {
 		System.out.println("I am subh");
 	}
 	
+	public void banker() {
+		System.out.println("subh added her profession");
 	public void profession() {
 		System.out.println("I am an engineer");
 	}
