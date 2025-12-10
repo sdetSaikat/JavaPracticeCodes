@@ -6,5 +6,10 @@ public class B {
 		System.out.println("Subh created class B");
 
 	}
+	
+	public void subh() {
+		System.out.println("I am subh");
+	}
+	
 
 }
