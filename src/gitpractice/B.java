@@ -6,5 +6,9 @@ public class B {
 		System.out.println("i am saikat");
 
 	}
+	
+	public void saikat() {
+		System.out.println("I am saikat");
+	}
 
 }
