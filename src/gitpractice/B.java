@@ -45,6 +45,7 @@ public class B {
 	}
 	
 	int x = 10;
+	int k =10;
 
 
 }
