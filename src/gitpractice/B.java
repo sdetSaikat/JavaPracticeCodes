@@ -16,8 +16,9 @@ public class B {
 	}
 	
 	public void banker() {
-		System.out.println("subh added her profession");
+		System.out.println("subh is banker by profession");
 	}
+	
 	
 	public void profession() {
 		System.out.println("I am an engineer");
@@ -39,9 +40,12 @@ public class B {
 		System.out.println("canara Bank");
 	}
 
-	public void we are from(){
+	public void wearefrom(){
 		System.out.println("We are from Bengal");
 	}
+	
+	int x = 10;
+
 
 	int y =10;
 }
